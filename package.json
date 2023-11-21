@@ -1,0 +1,18 @@
+{
+  "name": "projeto_a3_back",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.cjs"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.3",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.1"
+  }
+}
